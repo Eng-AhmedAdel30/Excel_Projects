@@ -17,13 +17,13 @@ The **Call Center Performance Dashboard** is an interactive Excel-based analytic
 ## Screenshots
 
 ### Home Page
-![Home Page](Screenshots/1__Home_Page.png)
+![Home Page](<Screenshots/1.Home Page.png>)
 
 ### Overview
-![Overview](Screenshots/2__Overview.png)
+![Overview](<Screenshots/2.Overveiw.png>)
 
 ### Time Analysis
-![Time Analysis](Screenshots/3__Time_Analysis.png)
+![Time Analysis](<Screenshots/3.Time Analysis.png>)
 
 ---
 ## Dashboard Pages
